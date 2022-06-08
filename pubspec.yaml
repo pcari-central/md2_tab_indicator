@@ -1,0 +1,18 @@
+name: md2_tab_indicator
+description: MD2TabIndicator is a tab indicator influenced by Google's Material Design 2 tab indicator design and developed by
+publish_to: none
+repository: https://github.com/pcari-central/pcari-app-repo
+version: 2.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
